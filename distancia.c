@@ -56,6 +56,4 @@ int main(){
 	
 	// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado
 }
-=======
-}
->>>>>>> a46d5d83cd47837e4e87c559b411d935d6740fa9
+
