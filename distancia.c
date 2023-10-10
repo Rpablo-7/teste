@@ -52,4 +52,6 @@ int main(){
 	
 	// Mostra o resultado
 	printf("Distancia: %f", distancia);
+	
+	// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado// Mostra o resultado
 }
